@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RaulPontello/RaulPontello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I have experience with the three main data roles: Data Scientist, Data Engineer and Data Analyst.
 
 ### Work experience with:
