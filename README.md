@@ -2,7 +2,7 @@
 
 #### I have experience with the three main data roles: Data Scientist, Data Engineer and Data Analyst.
 
-# Work experience with:
+#### Work experience with:
 #### - Python, SQL, Apache Spark, Apache Airflow;
 #### - Data Visualization, Dashboards, Power BI, Data Analysis, Data Modeling;
 #### - AWS: RDS, S3, Athena, Glue, Redshift, DMS, CLI, IAM;
