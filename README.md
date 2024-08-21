@@ -17,9 +17,5 @@
 ## Certifications
 
 <a href="https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email">
-  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" width="50" height="40">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" width="70" height="70">
 </a>
-
-
-[![AWS Certified](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email)
-
