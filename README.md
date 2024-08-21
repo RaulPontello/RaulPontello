@@ -4,7 +4,7 @@
 
 #### We can talk in Portuguese, English, Spanish and French.
 
-## Tools & Technologies
+## Tools & Technologies I work with
 
 - [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Terraform](https://img.shields.io/badge/Terraform-7C3AED?logo=terraform&logoColor=white)](https://www.terraform.io/)
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Power BI](https://img.shields.io/badge/Power_BI-FFBF00?logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
