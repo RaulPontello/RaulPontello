@@ -14,6 +14,9 @@
 - [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 - [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 - [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](https://www.linux.org/)
+- [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+- [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
   
 ## Certifications
 
