@@ -7,9 +7,15 @@
 ## Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" width="50"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" width="50"/>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" alt="Terraform" width="50"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.terraform.io/assets/images/logo-hashicorp-d9e489b8.svg" alt="Terraform" width="50"/>
+  </a>
 </p>
   
 ## Certifications
