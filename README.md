@@ -17,6 +17,8 @@
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](https://www.linux.org/)
 - [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 - [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+- [![Power BI](https://img.shields.io/badge/Power_BI-FFBF00?logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
+
   
 ## Certifications
 
