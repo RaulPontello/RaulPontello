@@ -7,14 +7,8 @@
 ## Tools & Technologies
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"/>
-  </a>
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.terraform.io/assets/images/logo-hashicorp-d9e489b8.svg" alt="Terraform" width="50"/>
+    <img src="https://www.terraform.io/assets/images/logo-hashicorp-d9e489b8.svg" alt="Terraform" width="100"/>
   </a>
 </p>
   
