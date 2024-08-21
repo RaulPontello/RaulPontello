@@ -1,4 +1,4 @@
-#### Hi there 👋
+## Hi there, welcome to my GitHub page 👋
 
 #### I have experience with the three main data roles: Data Scientist, Data Engineer and Data Analyst.
 
@@ -6,9 +6,11 @@
 
 ## Tools & Technologies
 
-- <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" width="20"/> **Python**
-- <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" width="20"/> **Git**
-- <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" alt="Terraform" width="20"/> **Terraform**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" width="50"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" width="50"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" alt="Terraform" width="50"/>
+</p>
   
 ## Certifications
 
