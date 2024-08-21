@@ -6,4 +6,4 @@
 
 ## Certifications
 
-![AWS Certified Cloud Practitioner](https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email)
+![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
