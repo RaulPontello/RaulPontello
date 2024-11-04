@@ -19,3 +19,19 @@
 <a href="https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" width="200">
 </a>
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/a081b4a3-ef66-4579-a8eb-b3ab0df20a32/linked_in_profile">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Asssociate" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
