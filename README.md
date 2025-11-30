@@ -1,4 +1,4 @@
-## Hi there, welcome to my GitHub page 👋
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f258dc54-df1a-4b87-8783-9726aa6a2d7e" />## Hi there, welcome to my GitHub page 👋
 
 #### I have experience with the three main data roles: Data Scientist, Data Engineer and Data Analyst.
 
@@ -26,6 +26,11 @@
     <td>
       <a href="https://www.credly.com/badges/a081b4a3-ef66-4579-a8eb-b3ab0df20a32/linked_in_profile">
         <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Asssociate" width="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/590af7c8-cb4c-47b7-8add-2e59e9ff3054/public_url">
+        <img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Data Engineer Asssociate" width="200">
       </a>
     </td>
   </tr>
