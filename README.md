@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f258dc54-df1a-4b87-8783-9726aa6a2d7e" />## Hi there, welcome to my GitHub page 👋
+## Hi there, welcome to my GitHub page 👋
 
 #### I have experience with the three main data roles: Data Scientist, Data Engineer and Data Analyst.
 
