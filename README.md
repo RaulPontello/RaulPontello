@@ -20,17 +20,22 @@
   <tr>
     <td>
       <a href="https://www.credly.com/badges/7a7f6b64-8959-4524-b5f8-78fdb2232109/email">
-        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="200">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner Certification" width="200">
       </a>
     </td>
     <td>
       <a href="https://www.credly.com/badges/a081b4a3-ef66-4579-a8eb-b3ab0df20a32/linked_in_profile">
-        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Asssociate" width="200">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Asssociate Certification" width="200">
       </a>
     </td>
     <td>
       <a href="https://www.credly.com/badges/590af7c8-cb4c-47b7-8add-2e59e9ff3054/public_url">
-        <img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Data Engineer Asssociate" width="200">
+        <img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Data Engineer Asssociate Certification" width="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/acf69f1f-65df-45b9-830b-3f540c51c7dd">
+        <img src="https://images.credly.com/size/680x680/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Asssociate Certification" width="200">
       </a>
     </td>
   </tr>
