@@ -33,6 +33,12 @@
         <img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Data Engineer Asssociate Certification" width="200">
       </a>
     </td>
+  </td>
+    <td>
+      <a href="https://www.credly.com/badges/590af7c8-cb4c-47b7-8add-2e59e9ff3054/public_url">
+        <img src="https://images.credly.com/size/680x680/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Asssociate Certification" width="200">
+      </a>
+    </td>            
   </tr>
   <tr>
     <td>
