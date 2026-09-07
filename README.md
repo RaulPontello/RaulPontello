@@ -33,14 +33,16 @@
         <img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Data Engineer Asssociate Certification" width="200">
       </a>
     </td>
-    <td>
-      <a href="https://www.credly.com/badges/acf69f1f-65df-45b9-830b-3f540c51c7dd">
-        <img src="https://images.credly.com/size/680x680/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Asssociate Certification" width="200">
-      </a>
-    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.credly.com/badges/6620b644-c06f-4a87-88bc-0a5cb7f95484">
         <img src="https://images.credly.com/size/680x680/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" alt="Claude Certified Associate - Foundations" width="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/badges/5b00bf62-c4eb-4e59-8002-5f2de625e9ea">
+        <img src="https://images.credly.com/size/680x680/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" alt="Claude Certified Developer - Foundations" width="200">
       </a>
     </td>
   </tr>
