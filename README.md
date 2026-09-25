@@ -52,4 +52,16 @@
       </a>
     </td>
   </tr>
+  <td>
+      <a href="https://www.credly.com/badges/6620b644-c06f-4a87-88bc-0a5cb7f95484">
+        <img src="https://images.credly.com/size/680x680/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" alt="Claude Certified Architect - Professional" width="200">
+      </a>
+    </td>
+
+  <td>
+      <a href="https://www.credly.com/badges/6620b644-c06f-4a87-88bc-0a5cb7f95484">
+        <img src="https://images.credly.com/size/680x680/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations
+" width="200">
+      </a>
+    </td>
 </table>
