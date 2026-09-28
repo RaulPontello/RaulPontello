@@ -35,8 +35,8 @@
     </td>
   </td>
     <td>
-      <a href="https://www.credly.com/badges/590af7c8-cb4c-47b7-8add-2e59e9ff3054/public_url">
-        <img src="https://images.credly.com/size/680x680/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Asssociate Certification" width="200">
+      <a href="https://www.credly.com/badges/acf69f1f-65df-45b9-830b-3f540c51c7dd/public_url">
+        <img src="https://images.credly.com/size/680x680/images/acf69f1f-65df-45b9-830b-3f540c51c7dd/blob" alt="Terraform Asssociate Certification" width="200">
       </a>
     </td>            
   </tr>
