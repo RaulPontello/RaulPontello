@@ -57,7 +57,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.credly.com/badges/6620b644-c06f-4a87-88bc-0a5cb7f95484">
+      <a href="https://www.credly.com/badges/1e602412-62ed-4e80-bea0-4fecc9135226">
         <img src="https://images.credly.com/size/680x680/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations
 " width="200">
       </a>
